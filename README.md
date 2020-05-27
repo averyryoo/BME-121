@@ -1,2 +1,2 @@
 # BME-121
-Weekly Assignments
+Weekly Assignments (written in C#)
