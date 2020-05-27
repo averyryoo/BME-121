@@ -1,0 +1,22 @@
+C:\Users\avery\documents\wa05\obj\Debug\netcoreapp2.1\wa05.csprojAssemblyReference.cache
+C:\Users\avery\documents\wa05\obj\Debug\netcoreapp2.1\wa05.csproj.CoreCompileInputs.cache
+C:\Users\avery\documents\wa05\obj\Debug\netcoreapp2.1\wa05.AssemblyInfoInputs.cache
+C:\Users\avery\documents\wa05\obj\Debug\netcoreapp2.1\wa05.AssemblyInfo.cs
+C:\Users\avery\documents\wa05\bin\Debug\netcoreapp2.1\wa05.deps.json
+C:\Users\avery\documents\wa05\bin\Debug\netcoreapp2.1\wa05.runtimeconfig.json
+C:\Users\avery\documents\wa05\bin\Debug\netcoreapp2.1\wa05.runtimeconfig.dev.json
+C:\Users\avery\documents\wa05\bin\Debug\netcoreapp2.1\wa05.dll
+C:\Users\avery\documents\wa05\bin\Debug\netcoreapp2.1\wa05.pdb
+C:\Users\avery\documents\wa05\obj\Debug\netcoreapp2.1\wa05.dll
+C:\Users\avery\documents\wa05\obj\Debug\netcoreapp2.1\wa05.pdb
+C:\Users\avery\Documents\BME\1A\BME121\Weekly Assignments\wa05\bin\Debug\netcoreapp2.1\wa05.deps.json
+C:\Users\avery\Documents\BME\1A\BME121\Weekly Assignments\wa05\bin\Debug\netcoreapp2.1\wa05.runtimeconfig.json
+C:\Users\avery\Documents\BME\1A\BME121\Weekly Assignments\wa05\bin\Debug\netcoreapp2.1\wa05.runtimeconfig.dev.json
+C:\Users\avery\Documents\BME\1A\BME121\Weekly Assignments\wa05\bin\Debug\netcoreapp2.1\wa05.dll
+C:\Users\avery\Documents\BME\1A\BME121\Weekly Assignments\wa05\bin\Debug\netcoreapp2.1\wa05.pdb
+C:\Users\avery\Documents\BME\1A\BME121\Weekly Assignments\wa05\obj\Debug\netcoreapp2.1\wa05.csprojAssemblyReference.cache
+C:\Users\avery\Documents\BME\1A\BME121\Weekly Assignments\wa05\obj\Debug\netcoreapp2.1\wa05.csproj.CoreCompileInputs.cache
+C:\Users\avery\Documents\BME\1A\BME121\Weekly Assignments\wa05\obj\Debug\netcoreapp2.1\wa05.AssemblyInfoInputs.cache
+C:\Users\avery\Documents\BME\1A\BME121\Weekly Assignments\wa05\obj\Debug\netcoreapp2.1\wa05.AssemblyInfo.cs
+C:\Users\avery\Documents\BME\1A\BME121\Weekly Assignments\wa05\obj\Debug\netcoreapp2.1\wa05.dll
+C:\Users\avery\Documents\BME\1A\BME121\Weekly Assignments\wa05\obj\Debug\netcoreapp2.1\wa05.pdb
