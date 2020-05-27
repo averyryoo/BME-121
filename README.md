@@ -1,2 +1,2 @@
 # BME-121
-Weekly Assignments (written in C#)
+Assignments completed for BME 121 (Digital Computation) (written in C#)
